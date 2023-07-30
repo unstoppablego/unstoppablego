@@ -1,5 +1,6 @@
 ### Unstoppable Go Framework 👋
-![avatar](./Wechat.jpg=100x100)
+
+ <img src="./Wechat.jpg" width = "300" height = "200" alt="wechat" align=center />
 <!--
 **unstoppablego/unstoppablego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
