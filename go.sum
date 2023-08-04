@@ -193,6 +193,8 @@ github.com/subosito/gotenv v1.4.2 h1:X1TuBLAMDFbaTAChgCBLu3DU3UPyELpnF2jjJ2cz/S8
 github.com/subosito/gotenv v1.4.2/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
 github.com/unstoppablego/framework v0.0.0-20230804012410-89f72f168405 h1:/XXQjSk0ORSgQMZqtmMadI4oexjaVDkJJ9igXV3AHTw=
 github.com/unstoppablego/framework v0.0.0-20230804012410-89f72f168405/go.mod h1:HTdl+NkCy5a+wduJkNljq8G4raoHItkff0lAy+hQarU=
+github.com/unstoppablego/framework v0.0.0-20230804015951-0f761d17a25a h1:gh3jdNAKGoXfhW6XiyokFjEUgpPkg1kB0rtFWunt9CM=
+github.com/unstoppablego/framework v0.0.0-20230804015951-0f761d17a25a/go.mod h1:HTdl+NkCy5a+wduJkNljq8G4raoHItkff0lAy+hQarU=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

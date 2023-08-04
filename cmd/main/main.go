@@ -8,7 +8,9 @@ import (
 )
 
 func main() {
-
+	// 始终保持最新版本
+	// go get github.com/unstoppablego/framework@latest
+	//
 	config.ReadConf("./configs/") //"../../configs/"
 
 	logs.Info("Hello world")

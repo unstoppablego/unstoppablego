@@ -2,7 +2,7 @@ module github.com/unstoppablego/unstoppablego
 
 go 1.19
 
-require github.com/unstoppablego/framework v0.0.0-20230804012410-89f72f168405
+require github.com/unstoppablego/framework v0.0.0-20230804015951-0f761d17a25a
 
 require (
 	github.com/Code-Hex/go-generics-cache v1.3.1 // indirect
