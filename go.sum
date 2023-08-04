@@ -191,10 +191,10 @@ github.com/stretchr/testify v1.8.3 h1:RP3t2pwF7cMEbC1dqtB6poj3niw/9gnV4Cjg5oW5gt
 github.com/stretchr/testify v1.8.3/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/subosito/gotenv v1.4.2 h1:X1TuBLAMDFbaTAChgCBLu3DU3UPyELpnF2jjJ2cz/S8=
 github.com/subosito/gotenv v1.4.2/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
-github.com/unstoppablego/framework v0.0.0-20230804012410-89f72f168405 h1:/XXQjSk0ORSgQMZqtmMadI4oexjaVDkJJ9igXV3AHTw=
-github.com/unstoppablego/framework v0.0.0-20230804012410-89f72f168405/go.mod h1:HTdl+NkCy5a+wduJkNljq8G4raoHItkff0lAy+hQarU=
 github.com/unstoppablego/framework v0.0.0-20230804015951-0f761d17a25a h1:gh3jdNAKGoXfhW6XiyokFjEUgpPkg1kB0rtFWunt9CM=
 github.com/unstoppablego/framework v0.0.0-20230804015951-0f761d17a25a/go.mod h1:HTdl+NkCy5a+wduJkNljq8G4raoHItkff0lAy+hQarU=
+github.com/unstoppablego/framework v0.0.0-20230804024532-32341d761023 h1:foQY4WfhaStv5utnX/z2tmYX0lfR9AVurH8Isb/YO6o=
+github.com/unstoppablego/framework v0.0.0-20230804024532-32341d761023/go.mod h1:HTdl+NkCy5a+wduJkNljq8G4raoHItkff0lAy+hQarU=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

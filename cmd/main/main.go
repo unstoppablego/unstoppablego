@@ -9,7 +9,7 @@ import (
 
 func main() {
 	// 始终保持最新版本
-	// go get github.com/unstoppablego/framework@latest
+	// go get github.com/unstoppablego/framework
 	//
 	config.ReadConf("./configs/") //"../../configs/"
 
