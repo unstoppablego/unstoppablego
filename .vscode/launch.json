@@ -11,6 +11,7 @@
             "mode": "debug",
             "program": "${workspaceFolder}/cmd/main/main.go",
             "env": {},
+            "cwd": "${workspaceFolder}",
             "args": []
         }
     ]
