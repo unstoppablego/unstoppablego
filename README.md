@@ -2,7 +2,7 @@
 
  <img src="./Wechat.jpg" width = "300" height = "300" alt="wechat" align=center />
  
- #### 这是一个开箱即用的框架 golang web 框架 初始化模版 
+ #### 这是一个开箱即用的框架 golang web 框架 初始化模版
  - In the root directory go run cmd/main/main.go
  
 <!--
